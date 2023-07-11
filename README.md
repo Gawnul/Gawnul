@@ -1,4 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=lumi&text1=Drively%20☁️&width=850&height=200)](https://github.com/Gawnul)
+<p align='center'>
+  <img src='./screenshots/logo.svg'/>
+</p>
 
 ```javascript
 $ drivelyfetch
