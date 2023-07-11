@@ -1,4 +1,4 @@
-```javascript
+```python
 $ drivelyfetch
                 :!YPBB#BBPY!:          drively@spain
              .7G&@@@@@@@@@@@&G7.       --------
