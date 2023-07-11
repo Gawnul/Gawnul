@@ -1,5 +1,5 @@
 <p>
-  <img src='./banner.svg'/>
+  <img src='./banner.svg' width="850" height="200"/>
 </p>
 
 ```javascript
