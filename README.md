@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='./screenshots/logo.svg'/>
+  <img src='./banner.svg'/>
 </p>
 
 ```javascript
