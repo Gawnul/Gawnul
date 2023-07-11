@@ -13,9 +13,9 @@
                 width: 850px;
                 height: 200px;
                 background: #3ba3e8;
-
+                background-size: 600% 400%;
                 border-radius: 10px;
-
+                color: white;
                 text-align: center;
                 }
               
