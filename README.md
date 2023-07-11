@@ -1,18 +1,18 @@
 ```python
 $ drivelyfetch
-                :!YPBB#BBPY!:          drively@spain
-             .7G&@@@@@@@@@@@&G7.       --------
-            !#@@@@@@@@@@@@@@@@@#!      Uptime: undefined
-           J@@@@@@@@@@@@@@@@@@@@@J     Programming languages: JavaScript, HTML, CSS
-           ?G&@@@@@@@@@@@@@@@@@@@@~    OS: Windows
-     .^!77!: .!P@@@@@@@@@@@@@@@@@@5    Shell: ZSH
-  .7G&@@@@@@#J: ~B@@@@@@@@@@@@@@@@5    Editor: VSCode
- ~#@@@@@@@@@@@&?.7@@@@@@@@@@@@@@@@5    Hobby: gaming, music
-~&@@@@@@@@@@@@@@&@@@@@@@@@@@@@@@@@J
-5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:
-?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&~     Contacts
- 5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@P:      --------
-  7B@@@@@@@@@@@@@@@@@@@@@@@@BY^        Discord: drively
+                :!YPBB#BBPY!:          drively&spain
+             .7G&&&&&&&&&&&&&G7.       --------
+            !#&&&&&&&&&&&&&&&&&#!      Uptime: undefined
+           J&&&&&&&&&&&&&&&&&&&&&J     Programming languages: JavaScript, HTML, CSS
+           ?G&&&&&&&&&&&&&&&&&&&&&~    OS: Windows
+     .^!77!: .!P&&&&&&&&&&&&&&&&&&5    Shell: ZSH
+  .7G&&&&&&&#J: ~B&&&&&&&&&&&&&&&&5    Editor: VSCode
+ ~#&&&&&&&&&&&&?.7&&&&&&&&&&&&&&&&5    Hobby: gaming, music
+~&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&J
+5&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&#:
+?&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&~     Contacts
+ 5&&&&&&&&&&&&&&&&&&&&&&&&&&&&&P:      --------
+  7B&&&&&&&&&&&&&&&&&&&&&&&&BY^        Discord: drively
     ^?PBB#############BBPY7^           Twitter: GawNull
 ```
 
