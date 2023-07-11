@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Drively%20☁️&width=800&height=200)](https://github.com/Gawnul)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Drively%20☁️&width=850&height=200)](https://github.com/Gawnul)
 
 ```javascript
 $ drivelyfetch
